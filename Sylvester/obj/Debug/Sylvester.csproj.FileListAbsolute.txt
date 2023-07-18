@@ -1,0 +1,13 @@
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\obj\Debug\Sylvester.csproj.AssemblyReference.cache
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\obj\Debug\Sylvester.csproj.SuggestedBindingRedirects.cache
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\obj\Debug\Sylvester.csproj.CoreCompileInputs.cache
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\bin\Debug\Sylvester.exe.config
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\bin\Debug\Sylvester.exe
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\bin\Debug\Sylvester.pdb
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\bin\Debug\System.Drawing.Common.dll
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\bin\Debug\System.Drawing.Common.xml
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\obj\Debug\Sylvester.csproj.CopyComplete
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\obj\Debug\Sylvester.exe
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\obj\Debug\Sylvester.pdb
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\AuditorFOB\source\repos\Sylvester\Sylvester\bin\Debug\BitMiracle.LibTiff.NET.xml
