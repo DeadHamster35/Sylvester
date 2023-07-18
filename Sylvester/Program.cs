@@ -38,11 +38,11 @@ namespace Sylvester
                             {
                                 if (args[2] == "y")  //only multi files
                                 {
-                                    FileList = Directory.GetFiles(args[1], "*multi*.tif", SearchOption.TopDirectoryOnly);
+                                    FileList = Directory.GetFiles(args[1], "*multi*.tif*", SearchOption.TopDirectoryOnly);
                                 }
                                 else
                                 {
-                                    FileList = Directory.GetFiles(args[1], "*.tif", SearchOption.TopDirectoryOnly);
+                                    FileList = Directory.GetFiles(args[1], "*.tif*", SearchOption.TopDirectoryOnly);
                                 }
 
 
@@ -51,11 +51,11 @@ namespace Sylvester
                             {
                                 if (args[2] == "y")  //only multi files
                                 {
-                                    FileList = Directory.GetFiles(args[1], "*multi*.tif", SearchOption.AllDirectories);
+                                    FileList = Directory.GetFiles(args[1], "*multi*.tif*", SearchOption.AllDirectories);
                                 }
                                 else
                                 {
-                                    FileList = Directory.GetFiles(args[1], "*.tif", SearchOption.AllDirectories);
+                                    FileList = Directory.GetFiles(args[1], "*.tif*", SearchOption.AllDirectories);
                                 }
                             }
 
@@ -66,16 +66,16 @@ namespace Sylvester
                             {
                                 if (args[2] == "y")  //only multi files
                                 {
-                                    FileList = Directory.GetFiles(args[1], "*multi*.tif", SearchOption.AllDirectories);
+                                    FileList = Directory.GetFiles(args[1], "*multi*.tif*", SearchOption.AllDirectories);
                                 }
                                 else
                                 {
-                                    FileList = Directory.GetFiles(args[1], "*.tif", SearchOption.AllDirectories);
+                                    FileList = Directory.GetFiles(args[1], "*.tif*", SearchOption.AllDirectories);
                                 }
                             }
                             else
                             {
-                                FileList = Directory.GetFiles(args[1], "*.tif", SearchOption.AllDirectories);
+                                FileList = Directory.GetFiles(args[1], "*.tif*", SearchOption.AllDirectories);
                             }
                         }
 
@@ -214,11 +214,11 @@ namespace Sylvester
                                 {
                                     if (args[2] == "y")  //only multi files
                                     {
-                                        FileList = Directory.GetFiles(args[1], "*multi*.tif", SearchOption.TopDirectoryOnly);
+                                        FileList = Directory.GetFiles(args[1], "*multi*.tif*", SearchOption.TopDirectoryOnly);
                                     }
                                     else
                                     {
-                                        FileList = Directory.GetFiles(args[1], "*.tif", SearchOption.TopDirectoryOnly);
+                                        FileList = Directory.GetFiles(args[1], "*.tif*", SearchOption.TopDirectoryOnly);
                                     }
 
 
@@ -227,11 +227,11 @@ namespace Sylvester
                                 {
                                     if (args[2] == "y")  //only multi files
                                     {
-                                        FileList = Directory.GetFiles(args[1], "*multi*.tif", SearchOption.AllDirectories);
+                                        FileList = Directory.GetFiles(args[1], "*multi*.tif*", SearchOption.AllDirectories);
                                     }
                                     else
                                     {
-                                        FileList = Directory.GetFiles(args[1], "*.tif", SearchOption.AllDirectories);
+                                        FileList = Directory.GetFiles(args[1], "*.tif*", SearchOption.AllDirectories);
                                     }
                                 }
 
@@ -242,16 +242,16 @@ namespace Sylvester
                                 {
                                     if (args[2] == "y")  //only multi files
                                     {
-                                        FileList = Directory.GetFiles(args[1], "*multi*.tif", SearchOption.AllDirectories);
+                                        FileList = Directory.GetFiles(args[1], "*multi*.tif*", SearchOption.AllDirectories);
                                     }
                                     else
                                     {
-                                        FileList = Directory.GetFiles(args[1], "*.tif", SearchOption.AllDirectories);
+                                        FileList = Directory.GetFiles(args[1], "*.tif*", SearchOption.AllDirectories);
                                     }
                                 }
                                 else
                                 {
-                                    FileList = Directory.GetFiles(args[1], "*.tif", SearchOption.AllDirectories);
+                                    FileList = Directory.GetFiles(args[1], "*.tif*", SearchOption.AllDirectories);
                                 }
                             }
 
